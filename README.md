@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skriiii
 - 👀 I’m interested in Love, Game and Adventure
-- 🌱 I’m currently learning at 42 School in Paris
+- 🌱 I’m was learning at 42 School in Paris and Neoma Rouen
 - 💞️ I’m looking to collaborate on New Interesting Project
 - 📫 How to reach me: Discord = Skrii#3946
 
