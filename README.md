@@ -6,7 +6,7 @@ Love: Building meaningful connections, both in code and in life.
 Games: Avid gamer with a love for both playing and developing games.
 Adventure: Always seeking new challenges, whether in the real world or the digital one.
 
--🌱 Education & Learning
+- 🌱 Education & Learning
 
 42 School, Paris: A rigorous coding school where I honed my skills in software development.
 Neoma Business School, Rouen: Gained a deep understanding of business and management, which complements my technical expertise.
